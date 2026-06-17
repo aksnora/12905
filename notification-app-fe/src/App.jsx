@@ -1,3 +1,8 @@
 export default function App() {
-  return "Notifications App";
+  return (
+    <div>
+      <h1>Notifications App</h1>
+      <p>Welcome User</p>
+    </div>
+  );
 }

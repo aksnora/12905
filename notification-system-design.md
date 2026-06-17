@@ -5,7 +5,7 @@ Get notifications (GET /api/notifications)
 Get notification by ID
 Mark as read
 Delete notification
-Request JSON examples
-Response JSON examples
+Request JSON 
+Response JSON 
 Required headers (Authorization: Bearer <token>)
 Real-time notification design using WebSockets
